@@ -9,8 +9,8 @@ The main purpose of this project is to build a professional online presence and 
 ---
 
 ## Project Structure  
-- `index.html` → Main portfolio page
-- `me.jpg` → My profile picture
+- `index.html` Main portfolio page
+- `me.jpg`  My profile picture
 
 
 ---
