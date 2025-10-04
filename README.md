@@ -9,12 +9,11 @@ The main purpose of this project is to build a professional online presence and 
 ---
 
 ## Project Structure  
-```text
 portfolio/
 │
-├── index.html        # Main HTML file for the portfolio website
-├── me.jpg            # Profile/portrait image
-├── README.md         # Project documentation explaining the project
+├── index.html # Main portfolio page (your code)
+├── me.jpg # Profile/portrait image
+├── README.md # Project documentation (explains purpose & structure)
 
 
 ---
